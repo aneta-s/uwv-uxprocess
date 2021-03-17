@@ -11,7 +11,7 @@ export const headData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'alles-wframes.png',
+    img: 'problem.png',
     title: `PROBLEM.`,
     info: `Our website got negative reviews because users were frustrated with the digital services on the website visited by almost million visitors daily. Based on the content of the reviews, I hypothesized that users were overwhelmed by the content and the website’s cluttered appearance.`,
     info2: `Platform: Web & mobile.`,
@@ -66,7 +66,7 @@ export const contactData = {
   cta: `Next`,
   btn: 'Back',
   url: 'https://aneta-habitual-uxprocess.netlify.app',
-  repo: `https://aneta-infographics-uxprocess.netlify.app/`,
+  repo: `https://aneta-arbeidsmarkt-uxprocess.netlify.app`,
 };
 
 // FOOTER DATA

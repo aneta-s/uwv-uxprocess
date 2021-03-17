@@ -42,6 +42,8 @@ body {
         font-weight: bold;
         margin-bottom: 1.8rem;
         font-size: $mid-font-size;
+        text-transform: uppercase;
+
 
         @include respond(phone) {
           font-size: 2rem;
