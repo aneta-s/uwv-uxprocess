@@ -2,9 +2,9 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Aneta Stojanowska | Product Designer', // e.g: 'Name | Developer'
+  title: 'Aneta Stojanowska | UX/UI Designer', // e.g: 'Name | Developer'
   lang: 'nl, en, pl', // e.g: en, es, fr, jp
-  description: `I'm a Product Designer and I build beautifully designed web and mobile projects. With UX/UI practices I use the latest trends in the industry. I'm a problem solver and blogger. My ambition is to make the client happy with a user-friendly digital products. Could you use some help on design and front-end? Or do you have any questions? Git in touch!`, // e.g: Welcome to my website
+  description: `I'm a UX/UI Designer and I build beautifully designed web and mobile projects. With UX/UI practices I use the latest trends in the industry. I'm a problem solver and blogger. My ambition is to make the client happy with a user-friendly digital products. Could you use some help on design and front-end? Or do you have any questions? Git in touch!`, // e.g: Welcome to my website
 };
 
 // PROJECTS DATA
@@ -20,7 +20,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'roles-played.png',
     title: `ROLE(S) PLAYED.`,
-    info: `I was the sole UX designer whose job was to continuously bring value to our users. This involved collaborating closely with them while implementing design activities in order to solve the right problems in the right way. I was taking care of usability aspects during the iterative process while designing and testing the various results with users.`,
+    info: `I was the sole UX/UI designer whose job was to continuously bring value to our users. This involved collaborating closely with them while implementing design activities in order to solve the right problems in the right way. I was taking care of usability aspects during the iterative process while designing and testing the various results with users.`,
     info2: `Skills performed: Problem analyses, (User)research, sketches, user flows, site maps, lo fi & high-fidelity wireframes, responsive design in Bootstrap`,
   },
   {
